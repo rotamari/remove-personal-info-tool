@@ -1,3 +1,3 @@
-# Removal of Personal Information from DY
+# Removal of Personal Information
 
-Automated tool.
+Automated tool for DY.
